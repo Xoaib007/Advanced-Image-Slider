@@ -1,0 +1,19 @@
+{
+  "name": "react-advanced-image-slider",
+  "version": "1.0.0",
+  "description": "An advanced react carousel package which will make image slider more efficient and easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xoaib007/Advanced-Image-Slider.git"
+  },
+  "author": "Shoaib Ullah & Suyash Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xoaib007/Advanced-Image-Slider/issues"
+  },
+  "homepage": "https://github.com/Xoaib007/Advanced-Image-Slider#readme"
+}
